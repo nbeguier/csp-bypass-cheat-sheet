@@ -1,0 +1,1 @@
+document.write('<b>VULN (nonce=azerty123)</b>');

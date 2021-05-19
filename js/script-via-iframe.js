@@ -1,0 +1,1 @@
+document.write('<b>&lt;iframe srcdoc&equals;&quot;&lt;script src&equals;js&sol;some&period;js&gt;&lt;&sol;script&gt;&quot;&gt;&lt;&sol;iframe&gt;</b>');

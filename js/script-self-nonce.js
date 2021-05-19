@@ -1,0 +1,1 @@
+document.getElementById("script-self-nonce").innerHTML="VULN (nonce=azerty123)";

@@ -1,0 +1,1 @@
+document.getElementById("script-self").innerHTML="&lt;script src&equals;js&sol;some&period;js&gt;&lt;&sol;script&gt;";
